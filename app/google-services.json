@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "125884873920",
+    "project_id": "my-application-8e64c",
+    "storage_bucket": "my-application-8e64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125884873920:android:689fc1ba176a91407e8125",
+        "android_client_info": {
+          "package_name": "com.example.pokeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125884873920-bjavkg6lkgkt4eqdp1b18oseb71259g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokeeapp",
+            "certificate_hash": "44ace26b4cf25b1b118a68036ccfa6b2f88f48b3"
+          }
+        },
+        {
+          "client_id": "125884873920-rvln5jdqm8sgf3vajj4k694dbgg4a6cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlR57tM4KcpmkSAQViLWTOB574UFEtcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125884873920-rvln5jdqm8sgf3vajj4k694dbgg4a6cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
